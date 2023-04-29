@@ -12,7 +12,7 @@ public class ChatGPTHelper
 {
     OpenAiService service;
     public ChatGPTHelper(){
-        service = new OpenAiService("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", Duration.ofSeconds(30));
+        service = new OpenAiService("token", Duration.ofSeconds(30));
     }
     public String getDrinkIdea(List<String> products){
 
