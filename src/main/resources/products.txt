@@ -1,0 +1,13 @@
+orange juice
+apple juice
+pineapple juice
+lemon juice
+beer
+vodka
+whisky
+champagne
+gin
+jägermeister
+ice
+water
+soda
